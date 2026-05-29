@@ -1,4 +1,4 @@
-# SPARTA Logistics ( 팀 꾸럭2 )
+# SPARTA Logistics ( team. 꾸럭2 )
 
 > **"MSA 기반 B2B 물류 플랫폼을 설계하며, 서비스 간 신뢰성과 데이터 일관성을 끝까지 고민한 팀입니다."**
 
