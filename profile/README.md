@@ -8,7 +8,7 @@
 
 아키텍처 설계, 핵심 비즈니스 로직, 트러블슈팅 과정은 아래에서 확인하실 수 있습니다.
 
-👉 **[SPARTA Logistics 발표 자료 바로가기](#)** _(추가 예정)_
+👉 **[SPARTA Logistics 발표 자료 바로가기](https://github.com/B2B-team2/.github/blob/main/README.md)**
 
 ---
 
